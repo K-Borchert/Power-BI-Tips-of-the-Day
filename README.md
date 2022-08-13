@@ -29,22 +29,18 @@
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494442-8a0ba5db-8817-4ce5-817d-74ffe6e98e7d.gif" width="800"/></td>
-<td><h4 id="1" >Theme Generator</h4></td>
+<td><h4 id="2" style="text-align: center;">Theme Generator</h4></td>
 </tr>
 
-<tr>
-<td><img src="https://user-images.githubusercontent.com/63601923/184494442-8a0ba5db-8817-4ce5-817d-74ffe6e98e7d.gif" width="800"/></td>
-<td></td>
-</tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494498-39a05be3-f670-47c1-96ec-88fccf41eb9f.gif" width="800"/></td>
-<td>JSON Beautifier</td>
+<td><h4 id="3" style="text-align: center;">JSON Beautifier</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494528-8c7390b8-cf0e-4f3b-a48e-810e3f465e72.gif" width="800"/></td>
-<td>Change font theme</td>
+<td><h4 id="4" style="text-align: center;">Change font theme</h4></td>
 </tr>
 
 <tr>
