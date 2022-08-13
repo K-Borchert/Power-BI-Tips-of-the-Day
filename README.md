@@ -24,8 +24,8 @@
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494339-9c5a194b-8c5a-4fe7-8a8c-161b93000384.gif" width="800"/></td>
-<td><h4 id="1" >+- Icon in MatrixVisual</h4></td>
-</tr>
+<td><h4 id="1" style="text-align: center;">+- Icon in MatrixVisual</h4></td>
+  </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494442-8a0ba5db-8817-4ce5-817d-74ffe6e98e7d.gif" width="800"/></td>
