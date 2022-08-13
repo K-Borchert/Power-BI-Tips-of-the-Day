@@ -65,98 +65,84 @@
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494649-f04d6633-44ff-4834-a3c9-bed3dd5a0b47.gif" width="800"/></td>
-<td VALIGN=TOP>Power BI background in Power Point</td>
+<td VALIGN=TOP><h4 id="9" style="text-align: center;">Power BI background in Power Point</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494671-f8d149d9-f327-4914-aaba-a6f69f48670e.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Barchart positiv and negative colors</td>
+<td VALIGN=TOP><h4 id="10" style="text-align: center;">Visualization: Barchart positiv and negative colors</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494698-35060fe6-5b43-4714-88a8-c8031c6dec12.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Basic Icons as field value</td>
+<td VALIGN=TOP><h4 id="11" style="text-align: center;">Visualization: Basic Icons as field value</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494725-0b3d72a5-e631-45ff-8d45-557ddd2e74ec.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Bookmarks</td>
+<td VALIGN=TOP><h4 id="12" style="text-align: center;">Visualization: Bookmarks</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494772-9e9c4d5c-6fc0-418d-8de5-c475cf6a863e.gif" width="800"/></td>
-<td VALIGN=TOP>Power BI Service: Branding</td>
+<td VALIGN=TOP>P<h4 id="13" style="text-align: center;">Power BI Service: Branding</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494787-2bfea289-379a-4304-be44-6d89f2261e31.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Change page size</td>
+<td VALIGN=TOP><h4 id="14" style="text-align: center;">Visualization: Change page size<</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494815-4906dd18-4e6c-420b-8a79-4bbee41c0749.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Blank charakters in Header </td>
+<td VALIGN=TOP><h4 id="15" style="text-align: center;">Visualization: Blank charakters in Header </h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494884-4d77a8b2-985f-4213-967d-ac965a6ad9ab.gif" width="800"/></td>
-<td VALIGN=TOP>DAX:[COALESCE for Card Visuals </td>
+<td VALIGN=TOP><h4 id="16" style="text-align: center;">DAX:COALESCE for Card Visuals</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494900-3866d9dd-3ab7-458c-b38e-8bff98eb92c1.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: collaps and expand all in Matrix</td>
+<td VALIGN=TOP><h4 id="17" style="text-align: center;">Visualization: collaps and expand all in Matrix</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494923-c5200d67-6917-4b19-9ad4-00f7bf7c7f38.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Color shading visuals</td>
+<td VALIGN=TOP><h4 id="18" style="text-align: center;">Visualization: Color shading visuals</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494940-cd744789-ca3e-44e5-aa12-4a88a73e02ad.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Coloring Visual Header </td>
+<td VALIGN=TOP><h4 id="19" style="text-align: center;">Visualization: Coloring Visual Header/h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494967-1caa8ad8-a42a-495a-b98e-d0079d84b6e9.gif" width="800"/></td>
-<td VALIGN=TOP>Visualization: Coloring rows in SSRS</td>
+<td VALIGN=TOP><h4 id="20" style="text-align: center;">Visualization: Coloring rows in SSRS</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184494997-c094d51e-15c8-42ff-b9ef-2c303f081468.gif" width="800"/></td>
-<td VALIGN=TOP>Copy table from Matrix Visual with Drill Down</td>
-</tr>
+<td VALIGN=TOP><h4 id="21" style="text-align: center;">Copy table from Matrix Visual with Drill Down</h4></td>
+</tr> 
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184495023-c621f513-633b-493a-9ab0-1b9b90edb65a.gif" width="800"/></td>
-<td VALIGN=TOP>Copy KPI folder into another table with drag and drop</td>
+<td VALIGN=TOP><h4 id="22" style="text-align: center;">Copy KPI folder into another table with drag and drop</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184495146-bf5f85f5-c232-434c-ae67-966639a10053.gif" width="800"/></td>
-<td VALIGN=TOP>Copy whole Table from Data Tab to Excel</td>
+<td VALIGN=TOP><h4 id="23" style="text-align: center;">Copy whole Table from Data Tab to Excel</h4></td>
 </tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184495172-ed391ef6-6b33-4a50-a6bb-d2d0c32d2de0.gif" width="800"/></td>
-<td VALIGN=TOP>Power BI Service: Create Dashboard</td>
+<td VALIGN=TOP><h4 id="23" style="text-align: center;">Power BI Service: Create Dashboard</h4></td>
 </tr>
 
-<tr>
-<td><img src="https://user-images.githubusercontent.com/63601923/184495228-136ee8a4-d93f-49a3-b655-1d681970ce0b.gif" width="800"/></td>
-<td VALIGN=TOP>1. Create Filter field (Filter with Bookmarks)</td>
-</tr>
-
-<tr>
-<td><img src="https://user-images.githubusercontent.com/63601923/184495308-022732c8-025e-48e3-aa4f-6e78873f2a9f.gif" width="800"/></td>
-<td VALIGN=TOP>2. Create Filter field (Filter with Bookmarks)</td>
-</tr>
-
-<tr>
-<td><img src="https://user-images.githubusercontent.com/63601923/184495335-528878a6-2dfb-4bda-bcb2-d426c7545e8d.gif" width="800"/></td>
-<td>3.Create Filterbutton (Filter with Bookmarks</td>
-</tr>
 
 <tr>
 <td><img src="https://user-images.githubusercontent.com/63601923/184495348-b93a356a-6532-40a9-8860-6faf59c4ac08.gif" width="800"/></td>
